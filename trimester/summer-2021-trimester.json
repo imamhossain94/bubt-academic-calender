@@ -1,0 +1,435 @@
+{
+    "semester":"Summer 2021",
+    "semester_type":"Trimester",
+    "data":[
+       {
+          "date":{
+             "start":"09 Aug 2021",
+             "end":"26 Aug 2021"
+          },
+          "day":{
+             "start":"Monday",
+             "end":"Thursday"
+          },
+          "activities":"Payment of tuition fees: 1st installment"
+       },
+       {
+          "date":{
+             "start":"15 Aug 2021",
+             "end":"15 Aug 2021"
+          },
+          "day":{
+             "start":"Sunday",
+             "end":"Sunday"
+          },
+          "activities":"Holiday (National Mourning Day)"
+       },
+       {
+          "date":{
+             "start":"18 Aug 2021",
+             "end":"18 Aug 2021"
+          },
+          "day":{
+             "start":"Wednesday",
+             "end":"Wednesday"
+          },
+          "activities":"Commencement of Classes to be decided PY Orientation of the Newly Admitted Students"
+       },
+       {
+          "date":{
+             "start":"19 Aug 2021",
+             "end":"19 Aug 2021"
+          },
+          "day":{
+             "start":"Tuesday",
+             "end":"Tuesday"
+          },
+          "activities":"Holiday (Ashura)*"
+       },
+       {
+          "date":{
+             "start":"30 Aug 2021",
+             "end":"30 Aug 2021"
+          },
+          "day":{
+             "start":"Monday",
+             "end":"Monday"
+          },
+          "activities":"Holiday (Janmashtami) *"
+       },
+       {
+          "date":{
+             "start":"02 Sep 2021",
+             "end":"02 Sep 2021"
+          },
+          "day":{
+             "start":"Thursday",
+             "end":"Thursday"
+          },
+          "activities":"Deadline of course(s) add/drop/semester withdrawale"
+       },
+       {
+          "date":{
+             "start":"03 Sep 2021",
+             "end":"08 Sep 2021"
+          },
+          "day":{
+             "start":"Friday",
+             "end":"Wednesday"
+          },
+          "activities":"Submission of application for tuition fees waiver"
+       },
+       {
+          "date":{
+             "start":"15 Sep 2021",
+             "end":"15 Sep 2021"
+          },
+          "day":{
+             "start":"Wednesday",
+             "end":"Wednesday"
+          },
+          "activities":"Declaration of Waiver List"
+       },
+       {
+          "date":{
+             "start":"16 Sep 2021",
+             "end":"30 Sep 2021"
+          },
+          "day":{
+             "start":"Thursday",
+             "end":"Thursday"
+          },
+          "activities":"Payment of Tuition Fees: 2nd Installment"
+       },
+       {
+          "date":{
+             "start":"27 Sep 2021",
+             "end":"27 Sep 2021"
+          },
+          "day":{
+             "start":"Monday",
+             "end":"Monday"
+          },
+          "activities":"Deadline of submission of student attendance report"
+       },
+       {
+          "date":{
+             "start":"30 Sep 2021",
+             "end":"30 Sep 2021"
+          },
+          "day":{
+             "start":"Thursday",
+             "end":"Thursday"
+          },
+          "activities":"Last day of classes before Midterm Examination"
+       },
+       {
+          "date":{
+             "start":"01 Oct 2021",
+             "end":"01 Oct 2021"
+          },
+          "day":{
+             "start":"Friday",
+             "end":"Friday"
+          },
+          "activities":"Preparatory leave for Midterm Examination"
+       },
+       {
+          "date":{
+             "start":"02 Oct 2021",
+             "end":"09 Oct 2021"
+          },
+          "day":{
+             "start":"Saturday",
+             "end":"Saturday"
+          },
+          "activities":"Midterm Examination (8 Days)"
+       },
+       {
+          "date":{
+             "start":"06 Oct 2021",
+             "end":"06 Oct 2021"
+          },
+          "day":{
+             "start":"Wednesday",
+             "end":"Wednesday"
+          },
+          "activities":"Holiday (Akheri Chahar Somba) *"
+       },
+       {
+          "date":{
+             "start":"10 Oct 2021",
+             "end":"10 Oct 2021"
+          },
+          "day":{
+             "start":"Sunday",
+             "end":"Sunday"
+          },
+          "activities":"Classes resume after Midterm Examination"
+       },
+       {
+          "date":{
+             "start":"15 Oct 2021",
+             "end":"15 Oct 2021"
+          },
+          "day":{
+             "start":"Friday",
+             "end":"Friday"
+          },
+          "activities":"Holiday (Durga Puja: Vijaya Dashami) *"
+       },
+       {
+          "date":{
+             "start":"16 Oct 2021",
+             "end":"16 Oct 2021"
+          },
+          "day":{
+             "start":"Saturday",
+             "end":"Saturday"
+          },
+          "activities":"Deadline of submission of Midterm Examination"
+       },
+       {
+          "date":{
+             "start":"16 Oct 2021",
+             "end":"16 Oct 2021"
+          },
+          "day":{
+             "start":"Saturday",
+             "end":"Saturday"
+          },
+          "activities":"Saturday Deadline of submission of application for registration of Supplementary Midterm Examination"
+       },
+       {
+          "date":{
+             "start":"19 Oct 2021",
+             "end":"19 Oct 2021"
+          },
+          "day":{
+             "start":"Tuesday",
+             "end":"Tuesday"
+          },
+          "activities":"Holiday (Eid-e-Milad-un-Nabi) *"
+       },
+       {
+          "date":{
+             "start":"20 Oct 2021",
+             "end":"24 Oct 2021"
+          },
+          "day":{
+             "start":"Wednesday",
+             "end":"Sunday"
+          },
+          "activities":"Supplementary Midterm Examination"
+       },
+       {
+          "date":{
+             "start":"27 Oct 2021",
+             "end":"27 Oct 2021"
+          },
+          "day":{
+             "start":"Wednesday",
+             "end":"Wednesday"
+          },
+          "activities":"Deadline of submission of Supplementary Midterm Examination result"
+       },
+       {
+          "date":{
+             "start":"14 Nov 2021",
+             "end":"28 Nov 2021"
+          },
+          "day":{
+             "start":"Sunday",
+             "end":"Sunday"
+          },
+          "activities":"Payment of Tuition Fees: Final Installment"
+       },
+       {
+          "date":{
+             "start":"17 Nov 2021",
+             "end":"17 Nov 2021"
+          },
+          "day":{
+             "start":"Wednesday",
+             "end":"Wednesday"
+          },
+          "activities":"Holiday (Fatiha-e-Yajdahm) *"
+       },
+       {
+          "date":{
+             "start":"21 Nov 2021",
+             "end":"27 Nov 2021"
+          },
+          "day":{
+             "start":"Sunday",
+             "end":"Saturday"
+          },
+          "activities":"Farewell of Outgoing Students"
+       },
+       {
+          "date":{
+             "start":"24 Nov 2021",
+             "end":"24 Nov 2021"
+          },
+          "day":{
+             "start":"Wednesday",
+             "end":"Wednesday"
+          },
+          "activities":"Deadline of submission of student attendance report"
+       },
+       {
+          "date":{
+             "start":"27 Nov 2021",
+             "end":"27 Nov 2021"
+          },
+          "day":{
+             "start":"Saturday",
+             "end":"Saturday"
+          },
+          "activities":"Last day of classes before Final Examination"
+       },
+       {
+          "date":{
+             "start":"28 Nov 2021",
+             "end":"28 Nov 2021"
+          },
+          "day":{
+             "start":"Sunday",
+             "end":"Sunday"
+          },
+          "activities":"Preparatory leave for Final Examination"
+       },
+       {
+          "date":{
+             "start":"29 Nov 2021",
+             "end":"06 Dec 2021"
+          },
+          "day":{
+             "start":"Monday",
+             "end":"Monday"
+          },
+          "activities":"Final Examination (8 Days)"
+       },
+       {
+          "date":{
+             "start":"07 Dec 2021",
+             "end":"24 Dec 2021"
+          },
+          "day":{
+             "start":"Tuesady",
+             "end":"Friday"
+          },
+          "activities":"Registration for Fall 2021-22"
+       },
+       {
+          "date":{
+             "start":"12 Dec 2021",
+             "end":"12 Dec 2021"
+          },
+          "day":{
+             "start":"Sunday",
+             "end":"Sunday"
+          },
+          "activities":"Deadline of submission of Final Grade"
+       },
+       {
+          "date":{
+             "start":"13 Dec 2021",
+             "end":"13 Dec 2021"
+          },
+          "day":{
+             "start":"Monday",
+             "end":"Monday"
+          },
+          "activities":"Day of Final Result publication"
+       },
+       {
+          "date":{
+             "start":"13 Dec 2021",
+             "end":"13 Dec 2021"
+          },
+          "day":{
+             "start":"Monday",
+             "end":"Monday"
+          },
+          "activities":"Deadline of submission of application for registration of Supplementary Final Examination"
+       },
+       {
+          "date":{
+             "start":"13 Dec 2021",
+             "end":"14 Dec 2021"
+          },
+          "day":{
+             "start":"Monday",
+             "end":"Tuesday"
+          },
+          "activities":"Semester Break for Faculty Members"
+       },
+       {
+          "date":{
+             "start":"18 Dec 2021",
+             "end":"18 Dec 2021"
+          },
+          "day":{
+             "start":"Wednesday",
+             "end":"Wednesday"
+          },
+          "activities":"Commencement of Classes of Fall 2021-22R"
+       },
+       {
+          "date":{
+             "start":"16 Dec 2021",
+             "end":"16 Dec 2021"
+          },
+          "day":{
+             "start":"Thursday",
+             "end":"Thursday"
+          },
+          "activities":"Holiday (Victory Day)"
+       },
+       {
+          "date":{
+             "start":"19 Dec 2021",
+             "end":"22 Dec 2021"
+          },
+          "day":{
+             "start":"Sunday",
+             "end":"Wednesday"
+          },
+          "activities":"Supplementary Final Examination of Summer 2021"
+       },
+       {
+          "date":{
+             "start":"25 Dec 2021",
+             "end":"25 Dec 2021"
+          },
+          "day":{
+             "start":"Saturday",
+             "end":"Saturday"
+          },
+          "activities":"Holiday (Christmas Day)"
+       },
+       {
+          "date":{
+             "start":"26 Dec 2021",
+             "end":"26 Dec 2021"
+          },
+          "day":{
+             "start":"Sunday",
+             "end":"Sunday"
+          },
+          "activities":"Deadline of submission of Supplementary Final Examination result"
+       },
+       {
+          "date":{
+             "start":"27 Dec 2021",
+             "end":"27 Dec 2021"
+          },
+          "day":{
+             "start":"Monday",
+             "end":"Monday"
+          },
+          "activities":"Day of Supplementary Final Examination result publication"
+       }
+    ]
+ }

@@ -21,7 +21,7 @@ bi_semester = """01 Sep 2021,20 Sep 2021|Wednesday,Monday|Payment of tuition fee
 09 Dec 2021,24 Dec 2021|Thursday,Friday|Payment of Tuition Fees: Final Installment
 16 Dec 2021,16 Dec 2021|Thursday,Thursday|Holiday (Victory Day)
 23 Dec 2021,23 Dec 2021|Thursday,Thursday|Deadline of submission of student attendance report before Final Examination
-25 Dec2021,25 Dec2021|Saturday,Saturday|Holiday (Christmas Day)
+25 Dec 2021,25 Dec 2021|Saturday,Saturday|Holiday (Christmas Day)
 27 Dec 2021,27 Dec 2021|Monday,Monday|Last day of classes before Final Examination
 28 Dec 2021,29 Dec 2021|Tuesday,Wednesday|Preparatory leave for Final Examination
 30 Dec 2021,08 Jan 2022|Thursday,Saturday|Final Examination (10 Days)
@@ -89,6 +89,8 @@ def listItemToActivitiesObj(data):
             "start": day[0],
             "end": day[1]
         },
+        "semester": "Summer 2021",
+        "semester_type": "Trimester",
         "activities": activities
     }
 
